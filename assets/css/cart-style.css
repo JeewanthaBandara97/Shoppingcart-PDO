@@ -1,0 +1,11 @@
+.shopping-cart{
+	padding: 3%0;
+}
+
+.cart-items +.cart-items{
+	padding: 2% 0;
+}
+
+.row .price-details h6{
+	padding: 3% 2%;
+}
